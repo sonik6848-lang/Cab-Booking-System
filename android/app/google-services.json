@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "262451475931",
+    "firebase_url": "https://original-aspect-310011-default-rtdb.firebaseio.com",
+    "project_id": "original-aspect-310011",
+    "storage_bucket": "original-aspect-310011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262451475931:android:cf56daf64f113a68cd63fe",
+        "android_client_info": {
+          "package_name": "com.Kishan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262451475931-cpsfh44v4to3gpkrh421aaurfuqv257f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Kishan.app",
+            "certificate_hash": "75180826e3cea3c02c96b5bf21f83cf6c4b4e3b0"
+          }
+        },
+        {
+          "client_id": "262451475931-vjsepor98hqguhdp79cfoqj42j0qfu2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Kishan.app",
+            "certificate_hash": "4357a7e6d9cbf86fe9f1eec86c3cbfa1f811293e"
+          }
+        },
+        {
+          "client_id": "262451475931-kuj747aiidp2s4716or75tgmj80e1cso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0zmV77mp_kS_fHEDzN8G6SQNxBuN3F5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262451475931-kuj747aiidp2s4716or75tgmj80e1cso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

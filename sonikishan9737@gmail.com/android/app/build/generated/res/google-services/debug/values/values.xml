@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">280274065768-d7coc4mlrv6am4icrlif2jjdtkauu911.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://uberredesign.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">280274065768</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFcaSm2OWZYnMpdydVYp0KdHOl0VEn4mM</string>
+    <string name="google_app_id" translatable="false">1:280274065768:android:f966fd2798a3f567831edd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFcaSm2OWZYnMpdydVYp0KdHOl0VEn4mM</string>
+    <string name="google_storage_bucket" translatable="false">uberredesign.appspot.com</string>
+    <string name="project_id" translatable="false">uberredesign</string>
+</resources>
