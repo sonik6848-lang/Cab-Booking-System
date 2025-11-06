@@ -21,34 +21,22 @@ It allows customers to register, book, and manage cabs online, while enabling th
 1. Clone the repository:  
    ```bash
    git clone https://github.com/sonik6848-lang/Cab-Booking-System.git
-Open the project in Android Studio.
+2. Open the project in Android Studio.
+3. Connect to Firebase with your account.
+4. Build and run the app on an emulator or Android device.
+5. Use the admin HTML dashboard for management features.
 
-Connect to Firebase with your account.
+## 📊 Results / Output
+-Mobile app interface for customers to book cabs
+-Admin dashboard for booking and driver management
+-Efficient record tracking and minimal paperwork
+-Mobile APK included for testing: app_debug.apk
 
-Build and run the app on an emulator or Android device.
-
-Use the admin HTML dashboard for management features.
-
-📊 Results / Output
-
-Mobile app interface for customers to book cabs
-
-Admin dashboard for booking and driver management
-
-Efficient record tracking and minimal paperwork
-
-Mobile APK included for testing: app_debug.apk
-
-🧩 Key Learnings
-
-Developed mobile app with Java and Android Studio
-
-Integrated Firebase Realtime Database for backend
-
-Learned about booking systems, database management, and user experience design
+##🧩 Key Learnings
+-Developed mobile app with Java and Android Studio
+-Integrated Firebase Realtime Database for backend
+-Learned about booking systems, database management, and user experience design
 
 🔗 Links
-
 Repository: Cab Booking System
-
 APK file included for testing
