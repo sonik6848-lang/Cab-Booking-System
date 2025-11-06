@@ -1,13 +1,29 @@
-A computer-based management system is designed to handle the entire primary 
-Information required to manage the whole data. Separate database is maintained to handle 
-all the details required for the correct statement calculation and generations. This project 
-intends to introduce more user friendly in the various activities such as record updating, 
-maintenance, and searching. The objective and scope of my project Online Cab Booking 
-System is to record the details various activities of user. It will simplify the task and 
-reduce the paperwork. To produce a mobile app-based system that allow customer to 
-register cab online During implementation every user will be given appropriate training to 
-suit their specific needs. Specific support will also be provided at key points within the 
-app. 
-To produce mobile app-based system that allow customer to register and reserve cab 
-online and for the company to effectively manage their Cab booking business. To ease 
-customer‟s task whenever they need to book a cab.
+# 🚖 Cab Booking System
+
+## 📘 Overview
+The Cab Booking System is a mobile and web-based application designed to simplify cab reservations for customers and streamline management for cab service providers.  
+It allows customers to register, book, and manage cabs online, while enabling the company to maintain records, track bookings, and optimize operations.
+
+---
+
+## 🧠 Key Features
+- Customer registration and login  
+- Online cab booking and reservation management  
+- Admin dashboard for managing bookings and drivers  
+- Real-time booking updates  
+- Record keeping and data management  
+
+---
+
+## ⚙️ Tech Stack
+- **Frontend / Mobile:** Java, Android Studio  
+- **Backend / Database:** Firebase Realtime Database  
+- **Web Components:** HTML for management interfaces  
+- **Tools:** Android Emulator, Git  
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/sonik6848-lang/Cab-Booking-System.git
